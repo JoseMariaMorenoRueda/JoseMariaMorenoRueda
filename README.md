@@ -9,7 +9,7 @@ El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen pa
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Kotlin](https://img.shields.io/badge/Juan-0095D5?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Android Studio](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
 
