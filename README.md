@@ -8,12 +8,11 @@ El año 2019 terminé el ciclo de rado superior "Administración de Sistemas Inf
 El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen para el Diagnóstico"
 
 ## Skills:
-![Juan](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-!(£fiUln) (https ://!■<• shields. io/Dddfe/Kotlin.009$OS?style-for-t^-oadfe&lofo«kotlinSlocoColor^<hlte41abelColor-lO1010)</pr>
-!(Android Studio! (httos ://im. shields. io/bedte/Android Studio-3D0C84?style»/or-the-badge41ogo«android-studioSlotoColor»whiteSldbelColofl01010)</br>
+![Android](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Kotlin](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Android Studio](https://img.shields.io/badge/Android-3DOC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
 
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 
 <!--
