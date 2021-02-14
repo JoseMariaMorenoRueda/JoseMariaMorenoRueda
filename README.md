@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Jose Maria Moreno Rueda👋
 Soy un estudiante de primer curso de "Desarrollo de Aplicaciones Web"
 
 El año 2020 terminé el ciclo de grado medio "Sistemas Microinformaticos y Redes"
