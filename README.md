@@ -12,7 +12,7 @@ El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen pa
 ![Kotlin](https://img.shields.io/badge/SMR-0095D5?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Android Studio](https://img.shields.io/badge/ASIR-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen para el Diagnóstico">&color=<COLOR>
 
 
 <!--
