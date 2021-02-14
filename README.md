@@ -14,6 +14,7 @@ El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen pa
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen para el Diagnóstico">&color=<COLOR>
 
+https://img.shields.io/static/v1?label=<LABEL>&Juan=<MESSAGE>&color=<COLOR>
 
 <!--
 **JoseMariaMorenoRueda/JoseMariaMorenoRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
