@@ -3,7 +3,7 @@ Soy un estudiante de primer curso de "Desarrollo de Aplicaciones Web"
 
 El año 2020 terminé el ciclo de grado medio "Sistemas Microinformaticos y Redes"
 
-El año 2019 terminé el ciclo de rado superior "Administración de Sistemas Informaticos y Redes"
+El año 2019 terminé el ciclo de grado superior "Administración de Sistemas Informaticos y Redes"
 
 El año 2013 terminé el ciclo de grado superior "Técnico Superior en Imagen para el Diagnóstico"
 
